@@ -20,8 +20,8 @@ Lulusan **Teknik Informatika** dengan spesialisasi dalam pengembangan aplikasi w
 ---
 
 ### 📈 Statistik GitHub
-![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=[bahri48]&show_icons=true&theme=radical)
-![Bahasa Paling Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=[bahri48]&layout=compact&theme=radical)
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=bahri48&show_icons=true&theme=radical)
+![Bahasa Paling Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=bahri48&layout=compact&theme=radical)
 
 ---
 
@@ -31,5 +31,6 @@ Lulusan **Teknik Informatika** dengan spesialisasi dalam pengembangan aplikasi w
 - 🌐 **Portfolio**: [bahri48](https://bahri48.com)
 
 ---
+
 
 *"Menulis kode adalah seni memecahkan masalah dengan logika."*
