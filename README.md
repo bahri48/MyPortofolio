@@ -1,4 +1,4 @@
-# Halo, Saya [Nama Kamu]! 👋
+# Halo, Saya Saepul Bahri! 👋
 
 ### Full-Stack Web & Mobile Developer 🚀
 
@@ -34,3 +34,4 @@ Lulusan **Teknik Informatika** dengan spesialisasi dalam pengembangan aplikasi w
 
 
 *"Menulis kode adalah seni memecahkan masalah dengan logika."*
+
